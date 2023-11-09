@@ -1,2 +1,1 @@
 # DDOS-stresSer 
-!ddos.png
